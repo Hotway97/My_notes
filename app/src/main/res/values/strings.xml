@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">mynotes</string>
+    <string name="description">Please, enter description</string>
+    <string name="Noteremoved">Note removed</string>
+    <string name="pinned">pinned</string>
+    <string name="unpinned">unpinned</string>
+    <string name="hinttitle">title</string>
+    <string name="hintenter_text">enter_text</string>
+    <string name="Search">Search for notes...</string>
+    <string name="pin_unpin">pin_unpin</string>
+    <string name="delete">delete</string>
+    <string name="title">title</string>
+    <string name="notes_text">notes_text</string>
+    <string name="date">date</string>
+
+
+</resources>

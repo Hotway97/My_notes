@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">заметки</string>
+    <string name="description">Пожалуйста, добавьте описание </string>
+    <string name="Noteremoved">Заметка удалена</string>
+    <string name="pinned">закреплено</string>
+    <string name="unpinned">откреплено</string>
+    <string name="hinttitle">Название заметки</string>
+    <string name="hintenter_text">Введите текст</string>
+    <string name="Search">Поиск по заметкам...</string>
+    <string name="pin_unpin">закрепить_открепить</string>
+    <string name="delete">удалить</string>
+    <string name="title">заголовок</string>
+    <string name="notes_text">Введите свою заметку</string>
+    <string name="date">дата</string>
+
+
+</resources>
