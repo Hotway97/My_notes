@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">mynotes</string>
+    <string name="app_name">our_notes</string>
     <string name="description">Please, enter description</string>
     <string name="Noteremoved">Note removed</string>
     <string name="pinned">pinned</string>

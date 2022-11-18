@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">заметки</string>
+    <string name="app_name">Наши заметки</string>
     <string name="description">Пожалуйста, добавьте описание </string>
     <string name="Noteremoved">Заметка удалена</string>
     <string name="pinned">закреплено</string>

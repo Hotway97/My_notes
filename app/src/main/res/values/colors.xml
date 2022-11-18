@@ -9,9 +9,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="grey">#808080</color>
 
-    <color name="color1">#227CC3</color>
-    <color name="color2">#2EB834</color>
-    <color name="color3">#ED1B08</color>
-    <color name="color4">#F1DA12</color>
-    <color name="color5">#9617AC</color>
+    <color name="color1">#4699DD</color>
+    <color name="color2">#61DD67</color>
+    <color name="color3">#DA4538</color>
+    <color name="color4">#E1C1B440</color>
+    <color name="color5">#B169BD</color>
 </resources>
